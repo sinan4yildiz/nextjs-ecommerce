@@ -1,4 +1,4 @@
-# Marsus eCommerce Storefront
+# Next.js eCommerce Storefront
 
 In your terminal, run the following command:
 
